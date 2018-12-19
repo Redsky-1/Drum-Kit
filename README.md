@@ -1,2 +1,2 @@
 # Drum-Kit
-Play drums eith this JavaScript built App. 
+Play drums with this JavaScript built App. 
